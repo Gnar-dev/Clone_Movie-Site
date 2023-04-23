@@ -20,7 +20,7 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 
 ## 🍅 내용 보기
 
-![이미지](https://github.com/Gnar-dev/Clone_Movie-Site/src/utils/img/main.png)
+![이미지](https://github.com/Gnar-dev/Clone_Movie-Site/.github/blop/main/src/utils/img/main.png)
 <br>
 
 ---
