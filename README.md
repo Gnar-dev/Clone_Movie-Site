@@ -20,8 +20,9 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 
 ## 🍅 내용 보기
 
-![이미지](https://github.com/Gnar-dev/Clone_Movie-Site/blop/main/src/utils/img/main.png)
-<br>
+<div>
+  <img width="600" alt="main" src="https://user-images.githubusercontent.com/121690671/233837784-5f356c4e-11a6-496f-9b72-11fcc7948710.png">
+</div>
 
 ---
 
