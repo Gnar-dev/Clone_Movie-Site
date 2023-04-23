@@ -32,3 +32,5 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 
 ## 🍔 상세 내용
 
+React를 사용한 프로젝트며 router-dom, redux, redux-toolkit 대해 공부가 되었습니다.
+OPEN API 를 활용한 사이트이며 모바일과 PC에서 볼 수 있게 최대한 반응형을 고려하여 작업하였습니다.
