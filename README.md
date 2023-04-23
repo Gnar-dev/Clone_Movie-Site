@@ -4,6 +4,8 @@
 <br>
 The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트 클론 코딩
 
+현재 vercel 로 배포 후 API URL 요청의 승인을 다시 받아야 해서 오류...
+
 ---
 
 ## ✨ 기술스택 
@@ -18,7 +20,7 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 
 
 
-## 🍅 내용 보기
+## 🍅 스크린 샷
 
 <div>
   <img width="600" alt="main" src="https://user-images.githubusercontent.com/121690671/233837784-5f356c4e-11a6-496f-9b72-11fcc7948710.png">
@@ -27,4 +29,6 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 </div>
 
 ---
+
+## 🍔 상세 내용
 
