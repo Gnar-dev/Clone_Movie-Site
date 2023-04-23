@@ -3,6 +3,7 @@
 ## 👩‍👧‍👧 Redux를 활용한 WATCHA 클론 코딩
 <br>
 The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트 클론 코딩
+
 ---
 
 ## ✨ 기술스택 
