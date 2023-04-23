@@ -22,6 +22,8 @@ The movie db 에서 제공하는 open API를 사용하여 만든 영화사이트
 
 <div>
   <img width="600" alt="main" src="https://user-images.githubusercontent.com/121690671/233837784-5f356c4e-11a6-496f-9b72-11fcc7948710.png">
+  <img width="600" alt="main2" src="https://user-images.githubusercontent.com/121690671/233837862-7e6b29a6-1b66-4365-b9f6-c4f9aaf03d2d.png">
+<img width="600" alt="detail" src="https://user-images.githubusercontent.com/121690671/233837865-eff5927c-a191-40ec-8532-e54c852bfcce.png">
 </div>
 
 ---
